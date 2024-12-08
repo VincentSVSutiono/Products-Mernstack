@@ -1,1 +1,1 @@
-Learning CRUD and integrating frontend with backend
+Learning node js, prisma, and typescript by implementing CRUD + integrating frontend with backend
